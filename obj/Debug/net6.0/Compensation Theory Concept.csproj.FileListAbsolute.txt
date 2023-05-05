@@ -1,0 +1,15 @@
+C:\Users\tyrau\Desktop\Main Repo\Compensation Theory Concept\bin\Debug\net6.0\Compensation Theory Concept.exe
+C:\Users\tyrau\Desktop\Main Repo\Compensation Theory Concept\bin\Debug\net6.0\Compensation Theory Concept.deps.json
+C:\Users\tyrau\Desktop\Main Repo\Compensation Theory Concept\bin\Debug\net6.0\Compensation Theory Concept.runtimeconfig.json
+C:\Users\tyrau\Desktop\Main Repo\Compensation Theory Concept\bin\Debug\net6.0\Compensation Theory Concept.dll
+C:\Users\tyrau\Desktop\Main Repo\Compensation Theory Concept\bin\Debug\net6.0\Compensation Theory Concept.pdb
+C:\Users\tyrau\Desktop\Main Repo\Compensation Theory Concept\obj\Debug\net6.0\Compensation Theory Concept.csproj.AssemblyReference.cache
+C:\Users\tyrau\Desktop\Main Repo\Compensation Theory Concept\obj\Debug\net6.0\Compensation Theory Concept.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tyrau\Desktop\Main Repo\Compensation Theory Concept\obj\Debug\net6.0\Compensation Theory Concept.AssemblyInfoInputs.cache
+C:\Users\tyrau\Desktop\Main Repo\Compensation Theory Concept\obj\Debug\net6.0\Compensation Theory Concept.AssemblyInfo.cs
+C:\Users\tyrau\Desktop\Main Repo\Compensation Theory Concept\obj\Debug\net6.0\Compensation Theory Concept.csproj.CoreCompileInputs.cache
+C:\Users\tyrau\Desktop\Main Repo\Compensation Theory Concept\obj\Debug\net6.0\Compensation Theory Concept.dll
+C:\Users\tyrau\Desktop\Main Repo\Compensation Theory Concept\obj\Debug\net6.0\refint\Compensation Theory Concept.dll
+C:\Users\tyrau\Desktop\Main Repo\Compensation Theory Concept\obj\Debug\net6.0\Compensation Theory Concept.pdb
+C:\Users\tyrau\Desktop\Main Repo\Compensation Theory Concept\obj\Debug\net6.0\Compensation Theory Concept.genruntimeconfig.cache
+C:\Users\tyrau\Desktop\Main Repo\Compensation Theory Concept\obj\Debug\net6.0\ref\Compensation Theory Concept.dll
