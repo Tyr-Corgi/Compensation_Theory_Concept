@@ -8,20 +8,20 @@ namespace PointDistribution
         static void Main(string[] args)
         {
             int totalPoints = 120;
-            string[] categories = { "1. Ruin", "2. Preservation", "3. Honor", "4. Mercy", "5. Cultivation", "6. Valor", "7. Odium", "8. Devotion", "9. Autonomy", "10. Domination", "11. Invention", "12. Whimsy", "13. Virtuosity", "14. Endowment", "15. Ambition", "16. Contentment" };
+            string[] categories = { "1. Ruin", "2. Preservation", "3. Honor", "4. Mercy", "5. Cultivation", "6. Valor", "7. Odium", "8. Devotion", "9. Autonomy", "15. Domination", "11. Invention", "12. Whimsy", "13. Virtuosity", "14. Endowment", "15. Ambition", "16. Contentment" };
             int[] points = new int[categories.Length];
             int remainingPoints = totalPoints;
 
-            Console.WriteLine("Please distribute 120 points among the following 16 categories. No category can have more than 10 points:");
+            Console.WriteLine("Please distribute 120 points among the following 16 categories. No category can have more than 15 points:");
 
             for (int i = 0; i < categories.Length; i++)
             {
                 Console.Write(categories[i] + ": ");
                 int input = int.Parse(Console.ReadLine());
 
-                while (input > 10)
+                while (input > 15)
                 {
-                    Console.WriteLine("No category can have more than 10 points. Please try again.");
+                    Console.WriteLine("No category can have more than 15 points. Please try again.");
                     Console.Write(categories[i] + ": ");
                     input = int.Parse(Console.ReadLine());
                 }
@@ -68,9 +68,9 @@ namespace PointDistribution
                     Console.Write("New total for " + category + ": ");
                     int newTotal = int.Parse(Console.ReadLine());
 
-                    while (newTotal > 10)
+                    while (newTotal > 15)
                     {
-                        Console.WriteLine("No category can have more than 10 points. Please try again.");
+                        Console.WriteLine("No category can have more than 15 points. Please try again.");
                         Console.Write("New total for " + category + ": ");
                         newTotal = int.Parse(Console.ReadLine());
                     }
